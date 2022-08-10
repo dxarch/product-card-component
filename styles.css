@@ -55,7 +55,7 @@ body {
 
 @media screen and (min-width: 1400px) {
     .product__image {
-        content: url("/images/image-product-desktop.jpg");
+        content: url("./images/image-product-desktop.jpg");
         width: 50%;
         align-self: stretch;
         border-top-left-radius: 10px;
